@@ -1,9 +1,3 @@
-/**
- * Contest: July Cook-Off 2012
- * Problem: Ceil and Receipt (CIELRCPT)
- * Author: Maxim Kolosovskiy (Tester)
- */
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
