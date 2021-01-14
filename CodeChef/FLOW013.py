@@ -16,8 +16,8 @@
 # 40 40 100
 # 45 45 90
 # 180 1 1
-# Output
 
+# Output
 # YES
 # YES
 # NO
